@@ -1,12 +1,18 @@
-import React from "react";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-function contact (){
 
+class MyForm extends React.Component {
+  render() {
     return (
-        <div>
-            contact page
-        </div>
-
+      <form>
+        <h1>Hello</h1>
+        <p>Enter your name:</p>
+        <input
+          type="text"
+        />
+      </form>
     );
+  }
 }
-export default contact;
+ReactDOM.render(<MyForm />, document.getElementById('root'));
