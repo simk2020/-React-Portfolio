@@ -1,5 +1,4 @@
 import React from "react";
-import Gallery from "./pages/gallery";
 import About from "./pages/about";
 import Portfolio from "./pages/portfolio";
 import Contact from "./pages/contact";
@@ -35,16 +34,7 @@ function App() {
           </Route>
 
 
-
-          <Wrapper>
-            <Gallery />
-            {/* <Portfolio /> */}
-            {/* <Contact /> */}
-          </Wrapper>
-
         </Switch>
-
-
 
 
       </Router>
