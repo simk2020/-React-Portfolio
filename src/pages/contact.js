@@ -1,8 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React, {Component} from 'react';
+//import ReactDOM from 'react-dom';
 
 
-class MyForm extends React.Component {
+class Contact extends Component {
   render() {
     return (
       <form>
@@ -15,4 +15,5 @@ class MyForm extends React.Component {
     );
   }
 }
-ReactDOM.render(<MyForm />, document.getElementById('root'));
+
+export default Contact;
