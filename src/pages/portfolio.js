@@ -13,7 +13,10 @@ function Portfolio (){
             {
               projects.map(project => (
                 <ProjectCard 
-                    project={project}
+                    title={project.title}
+                    image={project.image}
+                    description={project.description}
+                    github={project.Github}
                     
                 />
               )) 
