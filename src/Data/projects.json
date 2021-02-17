@@ -1,26 +1,26 @@
 [
     {
-        "title": "Project 1 - Horiseon",
+        "title": "Horiseon",
         "image": "assets/images/demo.jpg",
         "description": "This contains the first assignment that I did for our class",
         "Github": "https://simk2020.github.io/simk2020.Homework2/"
     },
     {
-        "title": "Project 2 - Portfolio",
+        "title": "First Portfolio",
         "image": "assets/images/demo.jpg",
-        "description": "This contains the first assignment that I did for our class",
+        "description": "This contains the portfolio we will be building for our class.",
         "Github": "https://simk2020.github.io/simk2020.Homework2/"   
     },
     {
-        "title": "Project 3 - Password Generator",
+        "title": "Password Generator",
         "image": "assets/images/demo.jpg",
-        "description": "This contains the first assignment that I did for our class",
+        "description": "This is a random password generator I created using html, css and JavaScript.",
         "Github": "https://simk2020.github.io/simk2020.Homework2/"
     },
     {
-        "title": "Project 4-Coding quiz",
+        "title": "Space Quiz",
         "image": "assets/images/demo.jpg",
-        "description": "This contains the first assignment that I did for our class",
+        "description": "Created a fun Space Quiz to test your Space Knowledge",
         "Github": "https://simk2020.github.io/simk2020.Homework2/"
     }
 ]
